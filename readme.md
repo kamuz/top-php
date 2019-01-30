@@ -9,3 +9,4 @@
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
 - [phpQuery](https://github.com/punkave/phpquery) - DOM traversal and functional testing
 - [Hybridauth](https://github.com/hybridauth/hybridauth) - social sign on PHP Library
+- [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
