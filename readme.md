@@ -7,4 +7,3 @@
 - [phpQuery](https://github.com/punkave/phpquery) - DOM traversal and functional testing
 - [Hybridauth](https://github.com/hybridauth/hybridauth) - social sign on PHP Library
 - [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
-- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - a pure PHP library for reading and writing spreadsheet files 
