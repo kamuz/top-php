@@ -1,8 +1,6 @@
 # Top tools for PHP Developers
 
-- [WordPress](https://github.com/wordpress/wordpress) - popular CMS
-- [Laravel](https://github.com/laravel/laravel) - popular PHP framework
-- [OpenCart](https://github.com/opencart/opencart) - popular ecommerce CMS
+- [WordPress](https://github.com/wordpress/wordpress) - the most popular CMS
 - [Parsedown](https://github.com/erusev/parsedown) - Markdown Parser in PHP
 - [Faker](https://github.com/fzaninotto/faker) - PHP library that generates fake data
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
