@@ -1,5 +1,6 @@
 # Top tools for PHP Developers
 
+- [Adminer](https://github.com/vrana/adminer/) - database management tool with single PHP file
 - [Blackfire](https://www.blackfire.io/) - profile, test and monitor performance
 - [CodeSniffer](https://github.com/squizlabs/php_codesniffer) - check and fix code standards
 - [Debug Bar](https://github.com/maximebf/php-debugbar) - debug bar in the browser
