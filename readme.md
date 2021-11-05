@@ -6,11 +6,11 @@
 - [Faker](https://github.com/fzaninotto/faker) - PHP library that generates fake data
 - [Guzzle](https://github.com/guzzle/guzzle) - PHP HTTP client
 - [Hybridauth](https://github.com/hybridauth/hybridauth) - social sign on PHP Library
-- [JWT](https://github.com/lcobucci/jwt) - work with JSON Web Token
-- [Laravel](https://github.com/laravel/laravel) - web application framework
+- [JWT](https://github.com/lcobucci/jwt) - JSON Web Token
+- [Laravel](https://github.com/laravel/laravel) - the most popular PHP framework
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
-- [OpenCart](https://github.com/opencart/opencart) - e-commerce solution
-- [Parsedown](https://github.com/erusev/parsedown) - Markdown Parser in PHP
+- [OpenCart](https://github.com/opencart/opencart) - simple E-Commerce solution
+- [Parsedown](https://github.com/erusev/parsedown) - Markdown parser in PHP
 - [PHPMailer](https://github.com/phpmailer/phpmailer) - email sending library
 - [phpQuery](https://github.com/punkave/phpquery) - DOM traversal and functional testing
 - [Ratchet](https://github.com/ratchetphp/ratchet) - asynchronous WebSocket server
@@ -18,6 +18,6 @@
 - [Requests](https://github.com/wordpress/requests) - HTTP request library
 - [Stripe PHP](https://github.com/stripe/stripe-php) - PHP library for the Stripe API
 - [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
-- [VarDumper](https://github.com/symfony/var-dumper) - better var dump
+- [VarDumper](https://github.com/symfony/var-dumper) - better debug function
 - [Webgrind](https://github.com/jokkedk/webgrind) - Xdebug profiling web frontend in PHP
 - [WordPress](https://github.com/wordpress/wordpress) - the most popular CMS
