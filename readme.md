@@ -16,7 +16,7 @@
 - [Ratchet](https://github.com/ratchetphp/ratchet) - asynchronous WebSocket server
 - [RedBean](https://github.com/gabordemooij/redbean) - easy to use ORM
 - [Requests](https://github.com/wordpress/requests) - HTTP request library
-- [Stripe](https://github.com/stripe/stripe-php) - PHP library for the Stripe API
+- [Stripe PHP](https://github.com/stripe/stripe-php) - PHP library for the Stripe API
 - [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
 - [VarDumper](https://github.com/symfony/var-dumper) - better var dump
 - [Webgrind](https://github.com/jokkedk/webgrind) - Xdebug profiling web frontend in PHP
