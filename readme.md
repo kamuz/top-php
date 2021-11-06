@@ -7,6 +7,7 @@
 - [Faker](https://github.com/fzaninotto/faker) - PHP library that generates fake data
 - [Guzzle](https://github.com/guzzle/guzzle) - PHP HTTP client
 - [Hybridauth](https://github.com/hybridauth/hybridauth) - social sign on PHP Library
+- [Imagine](https://github.com/php-imagine/imagine) - image manipulation library
 - [JWT](https://github.com/lcobucci/jwt) - JSON Web Token
 - [Laravel](https://github.com/laravel/laravel) - the most popular PHP framework
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
