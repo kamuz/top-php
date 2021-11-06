@@ -12,6 +12,7 @@
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
 - [OpenCart](https://github.com/opencart/opencart) - simple E-Commerce solution
 - [Parsedown](https://github.com/erusev/parsedown) - Markdown parser in PHP
+- [PHP-DI](https://github.com/wordpress/wordpress) - the dependency injection container
 - [PHPMailer](https://github.com/phpmailer/phpmailer) - email sending library
 - [phpQuery](https://github.com/punkave/phpquery) - DOM traversal and functional testing
 - [Ratchet](https://github.com/ratchetphp/ratchet) - asynchronous WebSocket server
