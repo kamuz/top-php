@@ -16,6 +16,7 @@
 - [PHP-DI](https://github.com/wordpress/wordpress) - the dependency injection container
 - [PHPMailer](https://github.com/phpmailer/phpmailer) - email sending library
 - [phpQuery](https://github.com/punkave/phpquery) - DOM traversal and functional testing
+- [Psalm](https://github.com/vimeo/psalm) - static analysis tool for finding errors in PHP applications
 - [Ratchet](https://github.com/ratchetphp/ratchet) - asynchronous WebSocket server
 - [RedBean](https://github.com/gabordemooij/redbean) - easy to use ORM
 - [Requests](https://github.com/wordpress/requests) - HTTP request library
