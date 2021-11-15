@@ -9,6 +9,7 @@
 - [Hybridauth](https://github.com/hybridauth/hybridauth) - social sign on PHP Library
 - [Imagine](https://github.com/php-imagine/imagine) - image manipulation library
 - [JWT](https://github.com/lcobucci/jwt) - JSON Web Token
+- [Lando](https://github.com/lando/lando) - popular Docker wrapper
 - [Omnipay](https://github.com/thephpleague/omnipay) - multi-gateway payment processing library for PHP
 - [Parsedown](https://github.com/erusev/parsedown) - Markdown parser in PHP
 - [PHPMailer](https://github.com/phpmailer/phpmailer) - email sending library
@@ -21,4 +22,3 @@
 - [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
 - [VarDumper](https://github.com/symfony/var-dumper) - better debug function
 - [Webgrind](https://github.com/jokkedk/webgrind) - Xdebug profiling web frontend in PHP
-- [Lando](https://github.com/lando/lando) - popular Docker wrapper
