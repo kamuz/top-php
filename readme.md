@@ -20,5 +20,6 @@
 - [Requests](https://github.com/wordpress/requests) - HTTP request library
 - [Stripe PHP](https://github.com/stripe/stripe-php) - PHP library for the Stripe API
 - [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - mailing tools for PHP
+- [TNTSearch](https://github.com/teamtnt/tntsearch) - full-text search engine written in PHP
 - [VarDumper](https://github.com/symfony/var-dumper) - better debug function
 - [Webgrind](https://github.com/jokkedk/webgrind) - Xdebug profiling web frontend in PHP
